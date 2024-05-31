@@ -23,7 +23,7 @@ My self reflection on my learning after our first 4 sessions on the Coding Black
 * Using GitHub to host a remote repo for collaborative working
 * How to merge two (or more) branches
 * How to fork and clone repos from GitHub to my local machine
-* I am more confident in my understanding:
+* I am more confident in my understanding of:
    * git push
    * git fetch
    * git merge
