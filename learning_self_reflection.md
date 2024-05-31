@@ -23,13 +23,14 @@ My self reflection on my learning after our first 4 sessions on the Coding Black
 * Using GitHub to host a remote repo for collaborative working
 * How to merge two (or more) branches
 * How to fork and clone repos from GitHub to my local machine
-
-## What I am still confused about
-* I am still unsure I fully understand how and when to safely use the following commands linking my local repo with a remote repo:
+* I am more confident in my understanding of:
    * git push
    * git fetch
    * git merge
    * git pull (a combination of git fetch and git merge in one step)
 
+## What I am still unsure about
+* Compilation of Java programs
+
 ## What I am looking forward to next on the course
-* Getting started with Java basics
+* Continuing with Java basics
